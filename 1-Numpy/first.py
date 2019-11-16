@@ -22,7 +22,7 @@ bu 3 dizi elemanlarının veri tipini gösterip yorumlayın
 
 6)30 adet 0'dan oluşan 5*6 lık bir dizi oluşturun
 
-7)3x5 boyutlarında 10 ile 50 arasında rastgele bir sayı üretip sayi isimli değişkene atayınız
+7)3*5 boyutlarında 10 ile 50 arasında rastgele bir sayı üretip sayi isimli değişkene atayınız
   
 
 
