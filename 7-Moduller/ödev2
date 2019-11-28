@@ -20,7 +20,7 @@ os modülü ile;
   e)bir for döngüsüyle py uzantılı dosyaları "***” şeklinde girdiyle ekrana yazdırın
   
 8)tek bir satırda ;udl\python\pythonintermediate\numpy şeklinde iç içe klasörler oluşturun
-   b)numpy klasörünün isimin osmodulu olarak değiştirin
+   b)numpy klasörünün isimini osmodulu olarak değiştirin
    c)bulunduğunuz dizinde "pythonbaslangıc" klasörü olup olmadıgını kontrol edin
    d)boş klasörleri siliniz
  
