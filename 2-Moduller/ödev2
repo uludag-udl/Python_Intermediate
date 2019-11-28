@@ -14,19 +14,19 @@ os modülü ile;
 6)tekrar mevcut dizine dönüş yapın ve gösterin
 
 7)olduğunuz dizinde farklı uzantılarda dosyalar oluşturunuz(py,exe,txt,jpeg gibi)
-  b)bu klasördeki dosyaları yazdırın
+  b)bu klasördeki dosyaları ekrana yazdırın
   c)oluşturduğunuz dosyalardan jpeg uzantılı dosyayı silin
   d)exe uzantılı dosyanızın "oluşturulma değiştirilme tarihi, boyutu" gibi özelliklerini görüntüleyin 
   e)bir for döngüsüyle py uzantılı dosyaları "***” şeklinde girdiyle ekrana yazdırın
   
 8)tek bir satırda ;udl\python\pythonintermediate\numpy şeklinde iç içe klasörler oluşturun
-   b)numpy klasörünün isimini osmodulu olarak değiştirin
+   b)numpy klasörünün isimini os modulu olarak değiştirin
    c)bulunduğunuz dizinde "pythonbaslangıc" klasörü olup olmadıgını kontrol edin
    d)boş klasörleri siliniz
  
-9)klasörünüzdeki txt dosyalarından birini açınız
+9)klasörünüzdeki txt dosyalarından birini açınız.
 
-10)system'inizden notepad'i çağırınız
+10)system'inizden notepad'i çağırınız.
 
 11)os modülü ile 30 saniye sonra  "https://github.com/uludag-udl" adresine gidiniz.
 
