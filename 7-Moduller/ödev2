@@ -1,20 +1,28 @@
 os modülünü çağırınız
+
 os modülü ile;
 1)hangi işletim sistemini kullandığınızı gösterin
+
 2)işletim sisteminizin dosya dizinini gösterimini yazdırın
+
 3)oluşturduğunuz 3 elemanlı bir listeyi dosya dizini haline getirin
+
 4)içinde bulunduğunuz dosya dizinini yazdırın
+
 5)bulunduğunuz dosya dizininden bir üst dizine geçin ve gösterin
+
 6)tekrar mevcut dizine dönüş yapın ve gösterin
+
 7)olduğunuz dizinde farklı uzantılarda dosyalar oluşturunuz(py,exe,txt,jpeg gibi)
   b)bu klasördeki dosyaları yazdırın
   c)oluşturduğunuz dosyalardan jpeg uzantılı dosyayı silin
   d)exe uzantılı dosyanızın "oluşturulma değiştirilme tarihi, boyutu" gibi özelliklerini görüntüleyin 
-  d)bir for döngüsüyle py uzantılı dosyaları" *** şeklinde girdiyle ekrana yazdırın
+  e)bir for döngüsüyle py uzantılı dosyaları" *** şeklinde girdiyle ekrana yazdırın
   
 8)tek bir satırda ;udl\python\pythonintermediate\numpy şeklinde iç içe klasörler oluşturun
    b)numpy klasörünün isimin osmodulu olarak değiştirin
-   c)boş klasörleri siliniz
+   c)bulunduğunuz dizinde "pythonbaslangıc" klasörü olup olmadıgını kontrol edin
+   d)boş klasörleri siliniz
  
 9)klasörünüzdeki txt dosyalarından birini açınız
 
