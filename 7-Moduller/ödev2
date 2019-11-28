@@ -17,7 +17,7 @@ os modülü ile;
   b)bu klasördeki dosyaları yazdırın
   c)oluşturduğunuz dosyalardan jpeg uzantılı dosyayı silin
   d)exe uzantılı dosyanızın "oluşturulma değiştirilme tarihi, boyutu" gibi özelliklerini görüntüleyin 
-  e)bir for döngüsüyle py uzantılı dosyaları" *** şeklinde girdiyle ekrana yazdırın
+  e)bir for döngüsüyle py uzantılı dosyaları "***” şeklinde girdiyle ekrana yazdırın
   
 8)tek bir satırda ;udl\python\pythonintermediate\numpy şeklinde iç içe klasörler oluşturun
    b)numpy klasörünün isimin osmodulu olarak değiştirin
